@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js build
+.next/
+out/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env*.local
+
+# Temporary / OS
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+
+# Scratch scripts and temporary dumps
+scratch/

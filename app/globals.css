@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary-navy: #003461;
+    --color-accent-purple: #96337b;
+    --color-cyan: #00a9ea;
+    --color-dark-blue: #00306a;
+    --color-text-dark: #1e293b;
+    --color-text-body: #334155;
+    --color-border-light: #e8e7ef;
+    --color-gyat-bg: #eef7ff;
+    --gradient-btn: linear-gradient(90deg, #cc2b5e 0%, #753a88 51%, #cc2b5e 100%);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    color: #334155;
+    background-color: #ffffff;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #003461;
+    letter-spacing: -0.01em;
+    font-weight: 700;
+  }
+
+  p {
+    color: #334155;
+    line-height: 1.7;
+  }
+
+  a {
+    transition: all 0.25s ease;
+  }
+}
+
+/* GYATK Buttons */
+.btn-gyatk-gradient {
+  background: linear-gradient(90deg, #cc2b5e 0%, #753a88 51%, #cc2b5e 100%) 0 0 / 200%;
+  color: #ffffff !important;
+  box-shadow: 0 4px 15px rgba(204, 43, 94, 0.25);
+  transition: all 0.3s ease;
+}
+
+.btn-gyatk-gradient:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(117, 58, 136, 0.35);
+  background-position: 100%;
+}
+
+.btn-gyatk-navy {
+  background-color: #003461;
+  color: #ffffff !important;
+  transition: all 0.25s ease;
+}
+
+.btn-gyatk-navy:hover {
+  background-color: #002242;
+  box-shadow: 0 4px 12px rgba(0, 52, 97, 0.3);
+}
+
+/* Tag Eyebrow in GYATK Style & Roboto Everywhere */
+.eyebrow-gyatk,
+.font-roboto,
+[class*="tracking-widest"][class*="uppercase"],
+[class*="tracking-wider"][class*="uppercase"] {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #003461;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #cc2b5e;
+}

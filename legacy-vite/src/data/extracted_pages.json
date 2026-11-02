@@ -1,0 +1,1891 @@
+{
+  "about-us": {
+    "id": 1440,
+    "slug": "about-us",
+    "title": "About Us",
+    "blocks": [
+      {
+        "heading": "RVCR - tech R & D",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR technology is developed by GYATK through years of Research & Development.",
+          "They say necessity is the mother of invention, however this wasn\u2019t the case here. RVCR was a result of the ability to thought experimenting with geometries, it assembly feasibility and design solutions. The idea was to develop a possible I.C. engine by using rotary pistons. This entire journey of ideating and conceptualization of the geometry and sequence of base components; were conceived by the inventor at the early stage. Later the timing methodology with cams for attaining the sequence and integration of gas and exchange accessories with their timing cams followed.",
+          "Once the concept was acknowledged in the IPER (International Preliminary Examination Report) by the EPO (European Patent office) against the PCT (Patent Corporation Treaty) application as true to Novelty, Inventive step, and Industrial applicability, the inventor initiated the project for the development of a prototype based on the RVCR concept.",
+          "This project lead to the development of the RVCR technology and the know-how and know-why for synthesizing kinetics for customized applications. The technology comprises, but not limited to, methodologies; techniques; formulas; information; designs; virtual & Analysis Methods and data; algorithms; manufacturing & QC processes; materials; testing; assembly & sub-assembly; strategies required for developing products based on the Principal of RVCR Mechanism."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/rd1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/robotic-vs-human-hand-system-depiction.jpg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "The strategy",
+        "subheading": "",
+        "paragraphs": [
+          "The approach to R&D project was a bottom-up one. It was the only way, as there didn\u2019t exist design precedence of equivalent mechanism in use. Hence each individual component had to be designed from scratch which became the base of the pyramid and then build upwards to realize higher assemblies.",
+          "The engineering application selected for developing the 1stprototype was for an \u2018I.C. Engine\u2019, using the invented mechanism. The main reasons for the choice being: \u2013",
+          "A minimum viable proto specification was arrived at, and the criterions were",
+          "The Technology Constituent Modules are segregated for ease of design process management and customization for varying applications."
+        ],
+        "list": [
+          "The complexity and sophistication of \u2018I.C. Engine Design\u2019 process covers almost all subsystems used in other applications. Other products can be arrived by removing Sub-Systems for adapting the design for fast development of alternative products.",
+          "I.C. Engines withstand extreme stress conditions and hence covers design sturdiness requirements of all other application Products.",
+          "To minimize the designing of components by using of standard \u2018Of the Shelf\u2019 accessories systems where-ever possible.",
+          "The cubic capacity to match with a small size engine of a motorbike, for easy of handling, manufacture, and availability of operational data."
+        ],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "The Background",
+        "subheading": "",
+        "paragraphs": [
+          "The spark moment happened to the inventor in his undergrade days while attending class on I.C.Engines. The slider-crank mechanism seemed cumbersome and the moment of \u2018why not a rotating piston working against a stationary one\u2019 happened.",
+          "The idea of getting two vanes, assembled in a concentric toroid was conceived. Slowly and steadily additional requirements were solved.The feasibilities of functionalities of 1stvane rotating and holding its counterpart the 2ndstationary till the 1stis to collide; the sequential turning, fitment of sealings and clutching etc.",
+          "These happened over a period of and was the result of inventor\u2019s ability to perceive for 3D shapes and thought experimenting with it. The 1stwooden model was fabricated but the whole idea went into a cold box for a decade, though it always remained in the back of his mind.",
+          "Later the inventor by now employed on merchant ships marine engineer over the years, gained exposure to various engineering systems. The mercantile system inventor conceptualised newer possible geometries of parts, refining and modifying them to overcome assembling constraints and desired sequential motion etc. These exist in the schematic sketches of the 1stpatent application made in India."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "The Initial stage",
+        "subheading": "",
+        "paragraphs": [
+          "This stage was self-financed and carried out inhouse. Each component virtual model was made in ideas software and assembled. These were checked for initial manufacture feasibility and feedback beginning with foundry (mould\u00a0 pattern makers), and later machining process tolerance were accommodated. Similar rounds of corrective iteration were made to improvise assembly, QC, testing concern.",
+          "GYATK has perfected the root algorithms of the various critical sub-systems and their interdependencies that define the functional integrity of the RVCR Mechanism as a Fluid Handling Machine. The validation of these subsystems was carried out by physical manufacture of component systems and establishing the RVCR assembly to test the configuration.",
+          "The functional integrity of the Prototype assembly and essential sub-systems is validated through physical simulation of the thermodynamic gas process like compression, expansion, gas exchange, and air flow throughput. The mass manufacturability and longevity of components mainly the seals which have been a major issue for rotary Wankel engine is solved.",
+          "This saw the technological know-how for deriving pilot products for capability demonstration getting formulated. The project \u00a0graduated into the phase of customising the knowhow for products."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/pic.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Technology structure",
+        "subheading": "",
+        "paragraphs": [
+          "The technology developed is structured in a \u2018Tree table form\u2019 where invented method is the \u2018Root\u2019 and core formulas form the \u2018Trunk\u2019, which are further customised for several \u2018branches\u2019 of applications. The genetic code of RVCR is in the patent which seeds \u2018RVCR Ecosystem\u2019.",
+          "RVCR Rotary positive displacement machine mechanism upgrades performance & efficiency parameters of all generic FHM including, I.C. engines, Pumps, Compressors & Motors at the same time reduces overall footprint, leading to new generation machines & fluid handling devices to shape future Energy Ecosystem.",
+          "The main Advantages of RVCR Mechanism originate from the \u201cVariable Compression Ratio\u201d (VCR) feature (ability to vary the Compression and Expansion Ratio).",
+          "\u2018Fluids are sucked-in and then pushed out of \u2018FHM\u2019 and used for Pumping or compressing them in Pumps and Compressors. In engines fluids (Fuel or Fuel/Air Mix) are sucked and compressed and burnt for powering other Machines, before it\u2019s pushed out. Fluid flow Energy of wind or water is converted to rotational Power, when forced through FHM\u2019",
+          "RVCR combines efficiency of \u2018Positive Displacement\u2019 in a compact of \u2018Rotary\u2019 unit and delivers VCR, which Crack-Opens Efficiency and Performance ceilings considered impossible with conventional mechanisms."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/rvcr-market-img.jpg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "RVCR Tech Links",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      }
+    ]
+  },
+  "strategic-advantages": {
+    "id": 1020,
+    "slug": "strategic-advantages",
+    "title": "Strategic Advantages",
+    "blocks": [
+      {
+        "heading": "Strategic advantages",
+        "subheading": "",
+        "paragraphs": [
+          "Adapting to change is necessary for survival,but choosing right solution is key to thriving with change, when others struggle."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/rvcr-1.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Overview",
+        "subheading": "",
+        "paragraphs": [
+          "Preparedness towards newer stricter climate regulation has seen companies investing in newer green product verticals. The disruption of conventional product line by the pandemic, has further caused companies to move completely towards the new verticals. However, the transition is not easy as the green product solutions are neither mature nor sustainable to be the mainstay of businesses. In this scenario RVCR technology is a long-term strategic option for leading the \u2018Zero Carbon\u2019 transition"
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Early adoption advantages",
+        "subheading": "Market entry ease",
+        "paragraphs": [
+          "Early adoption of superior RVCR technology has long term implications on business RVCR help you lead the change needed to cater to \u2018Zero Carbon\u2019 market drivers.",
+          "This section is under construction. Till such time please refer below link",
+          "### Post entry barriers",
+          "This section is under construction. Till such time please refer below link",
+          "### Core Competency",
+          "This section is under construction. Till such time please refer below link"
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/clock.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/efficiency.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/production.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "The competetive advantage",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "01",
+        "subheading": "Influence the competition",
+        "paragraphs": [
+          "This section is under construction. Till such time please refer below link"
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "02",
+        "subheading": "Influence the supplychain",
+        "paragraphs": [
+          "This section is under construction. Till such time please refer below link"
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "03",
+        "subheading": "Prepemptive product preparedness",
+        "paragraphs": [
+          "This section is under construction. Till such time please refer below link"
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "03",
+        "subheading": "Prepemptive product preparedness",
+        "paragraphs": [
+          "This section is under construction. Till such time please refer below link"
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Leapfrogging market leaders",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR \u2013 the new physics affects value addtion at every level of the product\u2019s value chain."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Summary",
+        "subheading": "",
+        "paragraphs": [
+          "AAA"
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR Tech Links",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      }
+    ]
+  },
+  "broader-impact": {
+    "id": 978,
+    "slug": "broader-impact",
+    "title": "Broader Impact",
+    "blocks": [
+      {
+        "heading": "Broader Impact",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR is a unified solution for an comprehensive alternate industrial strategyto create new green transport and energy systems for a Zero carbon Industry ecosystem"
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/rvcr-1.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Overview",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR technology availability ends the long-wait for viable smarter energy conversion system. It supersedes the conventional machine systems which are now at the end of their technological lifecycle.",
+          "The entire spread of RVCR application for green fuel usage and renewable energy power generation systems marks the begining of end of the era of fossil fuel machnies."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Shaping Green transport",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Green fuel / Hydrogen fuel transition",
+        "subheading": "Stricter Emission control",
+        "paragraphs": [
+          "RVCR provides a platform for green fuels to compete with fossil fuel without added investments.",
+          "Fuel agnostic Primemover engines relieves for instability due to disruption in supply logistics form current fuel sources by enabling use of newer green fuels. RVCR eases pain of \u2018End user\u2019 and Industry to adapt to changing environmental regulation requiring new investment in product upgrades for compliance.",
+          "This section is under construction.",
+          "RVCR empowers industry to devise better product strategies for compliance to newer stricter emission regulations with-out conflicting with existing petroleum economy which is averse to any drastic change.\n\nThis section is under construction.",
+          "### lower carbon foot print",
+          "This section is under construction."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/Value-to-manufacturers.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/efficiency.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Green energy transformation",
+        "subheading": "Enter climate energy",
+        "paragraphs": [
+          "RVCR new age highly efficient Fluid motor will enable rapid diversification into Renewable Energy sources.",
+          "### Enter ocean energy",
+          "This section is under construction.",
+          "### Efficient power use (Kamators)",
+          "This section is under construction."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/minimize.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/efficiency.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/production.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Efficient utilities",
+        "subheading": "Easy adaption",
+        "paragraphs": [
+          "RVCR will alleviates the Industry pain of costly Incremental enhancement strategies shall see emergence of next gen green-tech Primemover unicorns invigorating a new economy based on recovery from the climate catastrophe and providing direct employment at all levels. RVCR technology template for newer generation superior drive motors based on the Mechanism for wind, Hydro and solar Thermal energy conversion and even in electric motors.",
+          "This section is under construction.",
+          "This section is under construction.",
+          "### Green economy",
+          "Reinvigoration of a new age green machine economy."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "New Life cycle",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR lays the foundation of transition to Next-Gen Green Prime-movers that leads to wider industry turnaround and reinvigoration. Furthermore, RVCR will open new technological alternatives to formulate long-term clean tech strategies in wide range of sectors for dealing with climate change regulations and achieve Net Zero Carbon 2050 goals with ease.",
+          "This section is under construction."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Global green Transitioning",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/horse-cart-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/steam-engine-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/engine4.jpg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Summary",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR \u2013 makes unhooking from fossil fuel vaible."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR Tech Links",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      }
+    ]
+  },
+  "rvcr-value": {
+    "id": 911,
+    "slug": "rvcr-value",
+    "title": "RVCR value",
+    "blocks": [
+      {
+        "heading": "RVCR value",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR eases the pain of (and empowers) end users, industry players and policy makers aliketo attain its \u2018Zero Carbon\u2019 objectives."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/rvcr-1.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Overview",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR value evaluation needs deeper perspective on the innovation. Unlike incremental innovation where the value is determined by a simple comparison of one or few parameters (like efficiency improvement or cost reduction etc.) RVCR introduces newer enhancements in multiple disciplines and adds newer characteristics.",
+          "RVCR value is cumulation of all individual parameters discussed herein."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Technological parameters",
+        "subheading": "Efficiency",
+        "paragraphs": [
+          "RVCR \u2013 the new physics affects value addtion at every level of the product\u2019s value chain.",
+          "This section is under construction. Till such time please refer below link",
+          "### Efficacy",
+          "This section is under construction. Till such time please refer below link",
+          "### Capacity range",
+          "This section is under construction. Till such time please refer below link",
+          "### Compactness",
+          "This section is under construction. Till such time please refer below link",
+          "### Efficiency",
+          "This section is under construction. Till such time please refer below link",
+          "### Efficacy",
+          "This section is under construction. Till such time please refer below link",
+          "### Capacity range",
+          "This section is under construction. Till such time please refer below link",
+          "### Compactness",
+          "This section is under construction. Till such time please refer below link"
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/clock.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/efficiency.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/production.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/minimize.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/clock.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/efficiency.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/production.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/minimize.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Industrial parameters",
+        "subheading": "Value to manufacturers",
+        "paragraphs": [
+          "RVCR \u2013 the new physics affects value addtion at every level of the product\u2019s value chain.",
+          "This section is under construction. Till such time please refer below link",
+          "### Value to system providers",
+          "This section is under construction. Till such time please refer below link",
+          "### Value to system integrators",
+          "This section is under construction. Till such time please refer below link"
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/minimize.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/efficiency.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/production.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Value for end users",
+        "subheading": "Cost",
+        "paragraphs": [
+          "Machine mechanism overview",
+          "This section is under construction. Till such time please refer below link",
+          "### Ease of use",
+          "This section is under construction. Till such time please refer below link",
+          "### Multi use",
+          "This section is under construction. Till such time please refer below link"
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/minimize.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/efficiency.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/production.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Value for Regulators",
+        "subheading": "Stricter climate regulation",
+        "paragraphs": [
+          "RVCR \u2013 the new physics affects value addtion at every level of the product\u2019s value chain.",
+          "This section is under construction. Till such time please refer below link",
+          "### regulate pace of transition",
+          "This section is under construction. Till such time please refer below link"
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/minimize.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/efficiency.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Summary",
+        "subheading": "",
+        "paragraphs": [
+          "The RVCR concept is an invention in the field of kinematic mechanism that seeds a new breed of highly energy efficient machines with possibilities of newer functionalities to effectively deal with 21st century market drivers"
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR Tech Links",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      }
+    ]
+  },
+  "rvcr-viability": {
+    "id": 816,
+    "slug": "rvcr-viability",
+    "title": "RVCR viability",
+    "blocks": [
+      {
+        "heading": "RVCR viability",
+        "subheading": "",
+        "paragraphs": [
+          "New technology adoption involves multi layered decision making in technological, Industrial, financial, legal, and market processes. We help you with viability assessment and capability analysis of \u2018RVCR technology product\u2019 business case."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/rvcr-1.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Overview",
+        "subheading": "Techno-commercial assessment",
+        "paragraphs": [
+          "RVCR deep tech innovation viability assessment is as complex and a specialized competency. It\u2019s about \u2018Cost benefit analysis\u2019 of the RVCR technology D&D and the various product cost through its life cycle. The detailed fine print of busines case viability for individual products, includes benchmarking cost components and features with existing products.Viability reports of RVCR product realization is carried out on demand. We facilitate this through our innovation and D&D services business.",
+          "RVCR viability covers the entire tech life cycle beginning with for product concept, its development and to the market.",
+          "Since then we have built our capability over the years we gained from mentoring programs for global commercialization by I.C.2 Institute of UT at Austin; GSB-Stanford. This was facilitated for RVCR being winner in international competitions. (by Lockheed martin, Clean Tech International etc.)",
+          "We firmed up our \u2018RVCR green fuel Engines technology\u2019 business case with European Commission funded project.(SME Inst Ph1 Horizon 2020). We have developed the competency in formulating viable business case for RVCR application specific product technologies."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Prelude",
+        "subheading": "",
+        "paragraphs": [
+          "Our experience in the RVCR technology business viability analysis process has roots in the successful executing IP licensing agreement and innovation services contract by Auto Major Tata Motors."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Prelude",
+        "subheading": "",
+        "paragraphs": [
+          "Our experience in the RVCR technology business viability analysis process has roots in the successful executing IP licensing agreement and innovation services contract by Auto Major Tata Motors.",
+          "Since then we have built our capability over the years we gained from mentoring programs for global commercialization by I.C.2 Institute of UT at Austin; GSB-Stanford. This was facilitated for RVCR being winner in international competitions. (by Lockheed martin, Clean Tech International etc.)",
+          "We firmed up our \u2018RVCR green fuel Engines technology\u2019 business case with European Commission funded project.(SME Inst Ph1 Horizon 2020). We have developed the competency in formulating viable business case for RVCR application specific product technologies."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/Lower-Costs-more-value-for-money.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/Lower-Costs-more-value-for-money.jpg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Background",
+        "subheading": "",
+        "paragraphs": [
+          "When the moving parts are forced, they actuate motion in their connected links. Like in case of flow energy in wind or in water from dams that turn the turbines or electromagnetic in case of motors \u2013 they eventually lead to rotation of power generators or wheels. For nearly 100 years now only 2 types of mechanisms are mostly used in Primemovers and utility machines. The \u2018Slider-Crank\u2019 used and rotary mechanism. RVCR mechanisms simplifies conversion of energy within fluids into mechanical work (and Vice Versa) whilst enhancing efficiency and miniaturization.",
+          "The product process involves developing of machine hardware with industrial processes and the engineering of integrating customized high-end engineering systems. This extreme multi-disciplinary engineering competency is a super-specialization, and the process is highly cost and time intensive.",
+          "We have developed a phased top-down assessment process for RVCR technology business case for specific market segment application. This begins with larger economic overview and funnels down to fine print for specific products. We walk your through the entire process for your specific need.",
+          "The product process involves developing of machine hardware with industrial processes and the engineering of integrating customized high-end engineering systems. This extreme multi-disciplinary engineering competency is a super-specialization, and the process is highly cost and time intensive.",
+          "We have developed a phased top-down assessment process for RVCR technology business case for specific market segment application. This begins with larger economic overview and funnels down to fine print for specific products. We walk your through the entire process for your specific need."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/Innov.jpg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "How we do it",
+        "subheading": "",
+        "paragraphs": [
+          "We find most business professionals seek product performance data, however we clarify that we RVCR is not about a finished product. RVCR is a solution for developing core competency in superior technology for future product line derived from a newer working principle."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "THE BUSINESS CASE IS PRESENT AT 2 MAIN LEVELS",
+        "subheading": "",
+        "paragraphs": [
+          "The commercial R&D business case. This component covers individual \u2018technology and innovation services\u2019 contract, for \u2018RVCR pilot product\u2019 project in a particular industry vertical. The structure for project execution (inhouse JV; standalone contract; outsourced contracts etc.) and downstream support of skill, training and tool expertise need for the new technology is accounted here.",
+          "The RVCR product in the specific market space.This accounts for the entire mix of parameters of the specific product. The valuation would include the impact on conventional product market landscape; its existing competition; alternative solutions and innovation, mass producibility, geo-political stability, long term statutory and regulatory environment, its natural progression and growth, commercial exclusivity (background / background IP), global market domination and technology leadership potential, pre-emptive product launch capability etc."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "THE BUSINESS CASE IS PRESENT AT 2 MAIN LEVELS",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "01",
+        "subheading": "",
+        "paragraphs": [
+          "The 1st level of viability is arrived at by the \u2018degree of overall ease\u2019 enabled by key technology features. (those listed out in attributes). Comparing these with conventional feature capabilities of existing technologies and latest innovations."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "02",
+        "subheading": "",
+        "paragraphs": [
+          "The root cause of the comparative advantage from individual characteristics influence and its cumulative effect is charted. (This is an engineering level comparison for processes like thermodynamic processes and efficiencies; force and thermal balance; mechanical leverage etc.) ."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "03",
+        "subheading": "",
+        "paragraphs": [
+          "The next level is to evaluate the cost benefit analysis of breaking of an existing proven business and process cycle. The components include Pilot product D&D project cost; product mass manufacture and life cycle and business operations cost."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "04",
+        "subheading": "",
+        "paragraphs": [
+          "This is about valuating the change. The bigger the change, more cost and time intensive it gets. The RVCR products are completely new beings and we strongly prefer it in a new business vertical to segregate it from risk and liabilities from integrating it with existing business."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "01",
+        "subheading": "",
+        "paragraphs": [
+          "The 1st level of viability is arrived at by the \u2018degree of overall ease\u2019 enabled by key technology features. (those listed out in attributes). Comparing these with conventional feature capabilities of existing technologies and latest innovations."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "02",
+        "subheading": "",
+        "paragraphs": [
+          "The root cause of the comparative advantage from individual characteristics influence and its cumulative effect is charted. (This is an engineering level comparison for processes like thermodynamic processes and efficiencies; force and thermal balance; mechanical leverage etc.) ."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "03",
+        "subheading": "",
+        "paragraphs": [
+          "The next level is to evaluate the cost benefit analysis of breaking of an existing proven business and process cycle. The components include Pilot product D&D project cost; product mass manufacture and life cycle and business operations cost."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "04",
+        "subheading": "",
+        "paragraphs": [
+          "This is about valuating the change. The bigger the change, more cost and time intensive it gets. The RVCR products are completely new beings and we strongly prefer it in a new business vertical to segregate it from risk and liabilities from integrating it with existing business."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "The broader picture",
+        "subheading": "",
+        "paragraphs": [
+          "The business mix of commercial exclusivity IP right, and tech knowhow and D&D business and segment specific RVCR product application.",
+          "Considering the degree of change and difficulty of implementation RVCR stands as a Deep/ tough tech based gamechanger innovation.It converges a new concept in physics, engineering design and innovation, and Pilot product project execution capability.",
+          "The techno-prudence to assess a new concept invention\u2019s potential comes from in-depth knowledge of the product domain in : \u2013",
+          "Over the years of dealing with RVCR innovation and its commercialization we have deep insight of its engineering flow-process, industry dynamics and the business ecosystem."
+        ],
+        "list": [
+          "the constituting thermodynamics gas processes, Kinematics and its influence on the various process performance parameters.",
+          "the product\u2019s design, development and engineering, manufacturing, systems requirements supply and value chain, regulatory environment.",
+          "the product business life cycle, industry stakeholders and future market landscape."
+        ],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR System viability",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR stands out as a viable technology devoid of constructional complexities of Slider-crank Mechanism and turbines.",
+          "The Slider-crank mechanism require complex set of borings and machining of casing, A-frame, ensure entablature alignment, its close tolerances, collinearity, straightness, concentricity, main bearing inline boring, the drive accessories and drive chain needs. Additionally, the crank overhang, web & balancer construction and complexity of CAM-shafts, its support, placement, and drives are completely eliminated in RVCR). 90% of RVCR manufacture uses single point cutting tools including the toroidal curved surfaces.The rotary mechanism in turbojet system require high speed for large through put for thrust, pose extreme design and dynamic balancing challenges.",
+          "RVCR is a realistic, higher efficiency and lower cost solution to deal with 21st century market drivers."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "The market and industry scenario",
+        "subheading": "",
+        "paragraphs": [
+          "The global regulatory scenarios projections till 2035 to 2050 on emissions shall drive the RVCR demand for its capability to reorient green technology strategies globally.The ease or difficulty of innovation and new technology adoption by Industry players is an important aspect of the viability of the venture.",
+          "We undertake a initial engagement with a business to assess various parameters: The include their preparedness, plans, strategies for newer regulations; current Technologies; technology evaluations capability; familiarity and acceptance level of internal change. Their leadership, key influencers & strategic decision-making platforms, current investment and long-term plans, Customer-profiles, their emerging competitors, and threats etc.",
+          "This helps us to devise optimal strategic partial dilution of the RVCR IPR and offer a mix of commercial exclusivity and technology services support. A vital part of the offer is the business structure for the project. (We prefer a Special Purpose Entity, funded through Project finance model). Client specific offering is devised based on various criterion of client\u2019s business (and porters 5 forces analysis \u2013 pre and post RVCR adoption).",
+          "This helps us to devise optimal strategic partial dilution of the RVCR IPR and offer a mix of commercial exclusivity and technology services support. A vital part of the offer is the business structure for the project. (We prefer a Special Purpose Entity, funded through Project finance model). Client specific offering is devised based on various criterion of client\u2019s business (and porters 5 forces analysis \u2013 pre and post RVCR adoption)."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/shutterstock_654670969-scaled-1.jpg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "PRODUCT RELIZATION",
+        "subheading": "",
+        "paragraphs": [
+          "The existing Industrial Technological base; Engineering competencies; Technical management skills and product customer support, training, and Distribution structures, suffice for and can be easily channeled for RVCR. RVCR Product Assembling, Testing, Calibrations and Validation integration process into OEM\u2019s products is similar and in-line with existing industrial practices.",
+          "The integration and Suiting of RVCR Primemovers into End Products do not see any issues as RVCR Primemovers are smaller and easy to configure into all kinds of volume envelope.",
+          "With regard to accessory systems required for RVCR, standard off-the-shelf systems (fuel, ignition, cooling, turbocharger, tribological, Exhaust) are compatible with RVCR and do not pose adaptability challenges.",
+          "RVCR does-not require any End User behavior change or new learning."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Cost benefit analysis",
+        "subheading": "",
+        "paragraphs": [
+          "Detailed cost benefit comparison of each individual application and specific product is carried out for each business case."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/PRODUCT-RELIZATION-768x1024.jpg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Cost benefit analysis",
+        "subheading": "",
+        "paragraphs": [
+          "Detailed cost benefit comparison of each individual application and specific product is carried out for each business case."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Summary",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR viability is well researched and we have evolved an elaborate process to mitigate all its risks. Engage us for joint assessment of RVCR product projects and ensure long term sustained profitability with RVCR. The commercial viability of a segment specific RVCR product application is part of our innovation services business."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR Tech Links",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      }
+    ]
+  },
+  "rvcr-feasibility": {
+    "id": 759,
+    "slug": "rvcr-feasibility",
+    "title": "RVCR feasibility",
+    "blocks": [
+      {
+        "heading": "RVCR feasibility",
+        "subheading": "",
+        "paragraphs": [
+          "The RVCR concept systems are designed, manufactured, assembled,kinematic function tested and feasibility demonstrated."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/rvcr-1.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Overview",
+        "subheading": "Individual Engineering assesments",
+        "paragraphs": [
+          "The RVCR concept-based product realization is proven through technology and engineering feasibility assessment. This process for a deep tech innovation is involves complex and an specialized expertise. It covers entire spectrum of aspects ranging from rudimentary base geometry feasibilities to complex final product mass production feasibilities. These assessment were part of the design and development and includes multilayered and interdependent processes and listed out under various heads.",
+          "RVCR has traversed the entire path from conception to demonstration to prove feasibility of RVCR for adaptation needs for varying applications.",
+          "To ensure that the scrutiny is complete we got the RVCR to go through patenting offices globally. The 1st gen RVCR concept secured granted patents in about 49 countries worldwide.",
+          "The next step in the validation were covered in Kinematic synthesis and further D&D process. The various relationships and system requirement were perfected the system was virtually modeled and animated. The functional aspect was further deliberated mathematically, and these were latter verified with physical models after realization of the Physical model."
+        ],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Adams-Skeletal-hybrid-animation-1.m4v"
+        ]
+      },
+      {
+        "heading": "Kinematic feasibilities",
+        "subheading": "",
+        "paragraphs": [
+          "Like any other concept, the 1st level of validation of the RVCR concept was to crosscheck it\u2019s constituents for conformity within the confines of the laws of physics. Next was the verification of its novelty and originality.",
+          "This was confirmed through national and international patenting process.",
+          "To ensure that the scrutiny is complete we got the RVCR to go through patenting offices globally. The 1st gen RVCR concept secured granted patents in about 49 countries worldwide.",
+          "The next step in the validation were covered in Kinematic synthesis and further D&D process. The various relationships and system requirement were perfected the system was virtually modeled and animated. The functional aspect was further deliberated mathematically, and these were latter verified with physical models after realization of the Physical model."
+        ],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Adams-Skeletal-hybrid-animation-1.m4v"
+        ]
+      },
+      {
+        "heading": "Thermodynamic feasibilities",
+        "subheading": "",
+        "paragraphs": [
+          "The modelling and animation processes lay the basis for the modulating the components motion and its relationship with the gas Volumes trapped within. This began with outlining of sequence of compressions, expansion, and gas exchange processes. The duration control of these processes was verified for range for possibilities.",
+          "All conventional systems like valve, ports and timing control and accessory systems for head addition and removal processes are easily integrated with RVCR.",
+          "Sealing systems for gas process integrity has remained major challenge for rotary systems like Wankel and MYT systems. This is essential for RVCR concept-based Fluid Handling machines including, Engines, Wind/Hydro motors, variable delivery Pumps and compressors etc. RVCR overcomes the main flaws of predecessor vane systems.",
+          "The modelling and animation processes lay the basis for the modulating the components motion and its relationship with the gas Volumes trapped within. This began with outlining of sequence of compressions, expansion, and gas exchange processes. The duration control of these processes was verified for range for possibilities.",
+          "All conventional systems like valve, ports and timing control and accessory systems for head addition and removal processes are easily integrated with RVCR.",
+          "Sealing systems for gas process integrity has remained major challenge for rotary systems like Wankel and MYT systems. This is essential for RVCR concept-based Fluid Handling machines including, Engines, Wind/Hydro motors, variable delivery Pumps and compressors etc. RVCR overcomes the main flaws of predecessor vane systems."
+        ],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/CFD-simulation.m4v"
+        ]
+      },
+      {
+        "heading": "Physical Engineering feasibilities",
+        "subheading": "",
+        "paragraphs": [
+          "Like any other concept, the physics should be engineered into physical proto. We refined the feasibility of components for manufacturing by varying methods and processes. These include casting, forging, machining etc. and metallurgical processes.",
+          "All prototype parts since the 1st design and the latter iterations were manufactured. The capability to produce prototype components in a production relevant environment and the industrial base has been assessed and potential manufacturing sources are identified.",
+          "the various manufacturing strategy options have been refinedexplored, and materials, tooling, critical systems, test equipment, as well as personnel skills is demonstrated on components in production relevant environment. Producibility assessments of key technologies pose no feasibility challenges and cost model for projected manufacturing cost is constructed."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Assembly feasibilities",
+        "subheading": "",
+        "paragraphs": [
+          "The assembly of components of unique novel geometries were part of the initial thought process of configuring bent vanes in a toroid chamber. This core subassemblies along with all its critical systems and their mounting methodologies are established. The special tools, jigs, mandrels for individual systems handling, assembling, and mounting are tested and tried.",
+          "Accessory systems required for developing applications based on RVCR are assessed. High level systems integration strategies are formulated. standard off-the-shelf systems of conventional products (Prime-mover engines, compressors, and pumps etc.) do not pose adaptability challenges.",
+          "The standard systems (Fluid exchange, fuel injection, ignition, cooling, turbocharger, tribological, Exhaust) compatibility of system with RVCR and re-engineering systems to suit RVCR have been worked."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Functional feasibilities",
+        "subheading": "",
+        "paragraphs": [
+          "Each of RVCR\u2019s constituent system functionalities cumulates to the success of RVCR the RVCR assemblies. Through the concept, design, and development stage, to the physical realization and testing of each individual system it is explored probable failure modes.",
+          "The systems are classed based on their criticalities and newer solutions are innovated to solve critical functional needs.",
+          "The Individual systems have various levels of interdependence other systems they are assembled with. These are essential for bringing together all essential processes. The system are optimized for best workings and efficiency.",
+          "Each of RVCR\u2019s constituent system functionalities cumulates to the success of RVCR the RVCR assemblies. Through the concept, design, and development stage, to the physical realization and testing of each individual system it is explored probable failure modes. The systems are classed based on their criticalities and newer solutions are innovated to solve critical functional needs.",
+          "The Individual systems have various levels of interdependence other systems they are assembled with. These are essential for bringing together all essential processes. The system are optimized for best workings and efficiency. These Systems include, Sealing, Rapidly alternating positive clutching, torsional vibration handling, gas exchange process accessories.",
+          "These Systems include, Sealing, Rapidly alternating positive clutching, torsional vibration handling, gas exchange process accessories.",
+          "The nuances of RVCR systems and its fine tuning for deriving customized products in various engineering applications is compiled. This knowhow is the key to enabling the feasibilities of the various down stream applications of RVCR technology."
+        ],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/2-Motoring-2.m4v",
+          "/assets/videos/2-Motoring-2.m4v"
+        ]
+      },
+      {
+        "heading": "RVCR proto system, assembly and testing",
+        "subheading": "Proto Model CP02",
+        "paragraphs": [
+          "### Proto Test Ring",
+          "### CAD Model CP02",
+          "### TITLE 1",
+          "### TITLE 2",
+          "### TITLE 3"
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/Phy-proto-Assm-Gulf-news-pic-300x225-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/Phy-Proto-CP05-casing-on-test-rig-300x224-1.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/New-Project-7-e1693317558479.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/RVCR-02.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/RVCR-01.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/RVCR-03.jpg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Summary",
+        "subheading": "",
+        "paragraphs": [
+          "The newer functionalities of RVCR products to effectively deal with 21st century market drivers is thoroughly assessed and proven very much feasible."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR Tech Links",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      }
+    ]
+  },
+  "rvcr-applications": {
+    "id": 664,
+    "slug": "rvcr-applications",
+    "title": "RVCR Applications",
+    "blocks": [
+      {
+        "heading": "RVCR Applications",
+        "subheading": "",
+        "paragraphs": [
+          "Green fuel & Renewable energy Prime-moversMotors and drive systemsUtilities : \u2013 Compressors/ Pumps; Hydraulic, Metering and Dosing devices"
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/rvcr-1.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Overview",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR principle opens an entire new dimension in machine systems especially FHM (Fluid Handling Machines). They include Primemovers like engines powering land transport, maritime propulsion, power-generation; Wind and Hydro motors for renewable energy; motors, compressor, variable delivery pumps, metering devices etc."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "I.C.Engine Primemover Application",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "I.C.Engine Primemover Application",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR is all about high enhancement in efficiencyIt attains VCR with easy ease with external controls and hence attaining better combustion control. The combustion of different fuels in an I.C. Engine is one of the most challenging aspects. However, RVCR provides for constant volume which makes large residence time possible for combustion. RVCR Engines shall facilitate green-fuel enforceability without being in conflict with fossil-fuel economic structures, for a greener Industry ecosystem.",
+          "RVCR is all about high enhancement in efficiencyIt attains VCR with easy ease with external controls and hence attaining better combustion control. The combustion of different fuels in an I.C. Engine is one of the most challenging aspects. However, RVCR provides for constant volume which makes large residence time possible for combustion. RVCR Engines shall facilitate green-fuel enforceability without being in conflict with fossil-fuel economic structures, for a greener Industry ecosystem."
+        ],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Concept-Vimal-Seq-Combustion-1-Hq-1.m4v",
+          "/assets/videos/Concept-Vimal-Seq-Combustion-1-Hq-1.m4v"
+        ]
+      },
+      {
+        "heading": "The Application Segments",
+        "subheading": "",
+        "paragraphs": [
+          "We understand the RVCR technology best and how to customize it into segment specific technologies. The shift in the industry is towards greener options to reduce GHG emissions in engine Exhaust. The trend is in automotive sector is consistently moving towards electrification and hybrids. In the maritime and many land based applications we see the shift if towards clean fuels like LNG, CNG, Biofuels and Hydrogen etc.",
+          "RVCR shall facilitate green-fuel enforceability without being in conflict with fossil-fuel economic structures, for a greener Industry ecosystem.",
+          "RVCR I.C. Engine project is covered in the dedicated page under the opportunities section.",
+          "We have prioritized the customization of RVCR knowhow for developing the technology for 450 to 600 Hp applications. This specification is deduced as the MVP \u2018minimum viable product\u2019. This is with consideration to the wide range of applications it suffices.",
+          "This section contains technical details for those skilled in the art.",
+          "The reduction and increase in volume trapped between the piston vanes is used for compression and expansion. These are the essential thermodynamic gas processes in I.C.Engine. The other two processes are the heat addition and removal. All these processes can be explicitly achieved with RVCR kinematics. The animation depicts the Piston-vane sequence and the gas process. The gas forces are always directly transferred to the central output shaft through the sleeves.",
+          "This section contains technical details for those skilled in the art.",
+          "The reduction and increase in volume trapped between the piston vanes is used for compression and expansion. These are the essential thermodynamic gas processes in I.C.Engine. The other two processes are the heat addition and removal. All these processes can be explicitly achieved with RVCR kinematics. The animation depicts the Piston-vane sequence and the gas process. The gas forces are always directly transferred to the central output shaft through the sleeves.",
+          "RVCR combines the efficiency gains from \u2018Positive Displacement\u2019 and the Compactness of the rotary Mechanism. This new methodology is capable of delivering many new features and functionalities. The most important of them is VCR \u2018Variable Compression Ratio\u2019. VCR feature has been pursued for almost a 100 years by almost every global major, but it has remained elusive. VCR is key to gaining quantum leap in efficiency and multi-fuel adaptability (real-time switching from fossil to green-fuels).",
+          "RVCR combines the efficiency gains from \u2018Positive Displacement\u2019 and the Compactness of the rotary Mechanism. This new methodology is capable of delivering many new features and functionalities. The most important of them is VCR \u2018Variable Compression Ratio\u2019. VCR feature has been pursued for almost a 100 years by almost every global major, but it has remained elusive. VCR is key to gaining quantum leap in efficiency and multi-fuel adaptability (real-time switching from fossil to green-fuels)."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/CAD-model-CP05-with-fuel-manifold-rotated-copy.png",
+            "alt": ""
+          }
+        ],
+        "videos": [
+          "/assets/videos/Seq-Asm-No-Top-Csg-Fuel-Inj-Vv-Rocker-0-No-Air-Thru-Arrow-Isometric-1.m4v"
+        ]
+      },
+      {
+        "heading": "Process depiction",
+        "subheading": "",
+        "paragraphs": [
+          "This CAD model animation depicts operation of exhaust valve, its drive chain and fuel injection.The RVCR concept-based engine was conceived, and its technology knowhow is developed. The sequential motion of piston requisite for Gas Processes in I.C. Engines is achieved in a smarter, compacter way with piston-vane pair. While one piston-vane set is rotating, it\u2019s counterpart performs the equivalent of an Cylinder head.",
+          "The conventional reciprocating motion of cylindrical piston is a source of major limitations and RVCR eliminates it. The RVCR piston-vane is radially fitted on the sleeve and eliminates linear reciprocating motion. The connecting rod, top end bearing (Gudgeon pin) and bottom end bearings are not present."
+        ],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Seq-Asm-No-Top-Csg-Fuel-Inj-Vv-Rocker-With-Air-Thru-Arrow-Grey-Rotat-360-Orient-1.m4v"
+        ]
+      },
+      {
+        "heading": "Salient attributes",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [
+          "thermodynamic prosses called Constant Volume Heat exchange (CVHE);",
+          "Direct torque transfer through the entire expansion process.",
+          "Real time wide range Variable compression ratio (VRC).",
+          "Multi fuel flexibility (Switching of fuels during operation).",
+          "uniform peak efficiency under all load conditions",
+          "Miniaturization by warping of gas volume around shaft; Reduced operations costs by minimizing of component wear. Etc."
+        ],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "The Implications",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [
+          "(RVCR Mechanism Schematic Representation)"
+        ],
+        "images": [
+          {
+            "src": "/assets/images/wind-motor.png",
+            "alt": ""
+          }
+        ],
+        "videos": [
+          "/assets/videos/Mugur-1.m4v"
+        ]
+      },
+      {
+        "heading": "Renewable energy motors",
+        "subheading": "",
+        "paragraphs": [
+          "Tapping of renewable wind energy leads to only one picture \u2013 The 3-blade wind turbine. Same is the case with hydro-energy where we see Kaplan and Francis turbines. There are many more vertical turbine types.",
+          "Tapping of renewable wind energy leads to only one picture \u2013 The 3-blade wind turbine. Same is the case with hydro-energy where we see Kaplan and Francis turbines. There are many more vertical turbine types.",
+          "We introduce a new concept of utilizing Positive displacement mechanism for making next generation High efficiency wind motors. the methodology applied is about Converting flow energy in wind/hydro (Rivers, tidal) to pressure differential for driving RVCR +ve displacement motors",
+          "We introduce a new concept of utilizing Positive displacement mechanism for making next generation High efficiency wind motors. the methodology applied is about Converting flow energy in wind/hydro (Rivers, tidal) to pressure differential for driving RVCR +ve displacement motors"
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Turbine vs RVCR tech overview",
+        "subheading": "",
+        "paragraphs": [
+          "The section contains technical details for those skilled in the art.The axial flow FLUID turbines are rotary machines converting Wind energy into Power. The root principal differentiator between rotary and RVCR methods is in the wind force tapping method. Conventional wind turbines are driven by lift, achieved by aerofoiled profile of turbine blades. RVCR uses pressure differential between high wind velocity zone and ground level stagnant air conditions.",
+          "RVCR is the 1st in basing a FLUID motor on a rotary positive displacement mechanism. The RVCR system deploys a Convergent divergent nozzle in the flow path of air rather than a turbine. This creates low pressure at throat of the Nozzle. An air stack connects the low pressure at nozzle throat to the RVCR wind motor exhaust.",
+          "The high pressure at lower altitude region is connected to the intake side. The air flow induced from the high to low pressure point passes through the wind motor by turning the piston vanes which seal any air leak past its sides. This methodology cannot be deployed in turbines for air slip between blades. Even placing reaction turbines with closely packed blades has issues with air varying differential pressures and flow . The complexities of conventional positive displacement system make it difficult."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Superior attributes",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR wind motors can be installed at ground level as it is easy to communicate the air pressure differential without losses. evaluated in terms of its implication on increment in efficiency of Power take-off, indicates towards the gain in Value. The simplified geometry of the technology component systems when compared to conventional turbines complements further gains in value",
+          "RVCR enables multi-fold increase in energy capture efficiency compared to modern wind turbines. The RVCR principal simplifies the mechanics of Prime-Mover to reduce the Capital Cost drastically and the engineering involved reduces operations cost.",
+          "RVCR wind motors can be installed at ground level as it is easy to communicate the air pressure differential without losses. evaluated in terms of its implication on increment in efficiency of Power take-off, indicates towards the gain in Value. The simplified geometry of the technology component systems when compared to conventional turbines complements further gains in value",
+          "RVCR enables multi-fold increase in energy capture efficiency compared to modern wind turbines. The RVCR principal simplifies the mechanics of Prime-Mover to reduce the Capital Cost drastically and the engineering involved reduces operations cost.",
+          "The Topic is covered on the RVCR wind project page.",
+          "The Topic is covered on the RVCR wind project page."
+        ],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Wind-Motor-1.m4v",
+          "/assets/videos/Wind-Motor-1.m4v"
+        ]
+      },
+      {
+        "heading": "Summary",
+        "subheading": "",
+        "paragraphs": [
+          "The entire range of applications of RVCR is an exhaustive list and covers almost every fluid handling machine based on conventional kinematic mechanisms."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR Tech Links",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      }
+    ]
+  },
+  "how-rvcr-works": {
+    "id": 598,
+    "slug": "how-rvcr-works",
+    "title": "How RVCR works?",
+    "blocks": [
+      {
+        "heading": "How RVCR works?",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/CP05_casing-e1696327096244.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Overview",
+        "subheading": "",
+        "paragraphs": [
+          "The rotating piston-vanes inside the toroidal casing is is not allowed to collide with the stationary piston-vanes. As the rotating piston approaches a set distance (angle) from the stationary one, the latter one is released and allowed to rotate along with rotating piston synchronously and subsequently the approaching piston is stopped and held stationary It works in the same fashion as the shuttle valve used in the invention of steam engine by James watt. The moving piston triggers an action ahead of it before reaching its end point in travel."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Rotor sequence control",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Seq-Asm-2-Opr-On-Shaft-Ajee-Lq-1.m4v",
+          "/assets/videos/Seq-Asm-2-Opr-On-Shaft-Ajee-Lq-1.m4v"
+        ]
+      },
+      {
+        "heading": "Handling fluids",
+        "subheading": "",
+        "paragraphs": [
+          "The RVCR is about the volume inside a toroidal casing which is parted by the Piston Vanes. The volume trapped between the piston vanes is the fluid area. As the piston-vane rotates inside the toroidal chamber the volume between the Piston-Vanes changes. The volume ahead of the piston-vane reduces and behind it increases.",
+          "The rotating piston-vane compresses air ahead of it, against the stationary Piston-vane. The increasing volume behind it rarifies the air. The fluids spaces communicate with the outside air through conventional valves and ports. Valves are operated in relation to piston-vane position by cams mounted on sleeves and its associated drive chain. The choice of ports and valve are made to suit the application.",
+          "This sequential gas volume change across the rotating piston-vane during operation is used for the various thermodynamic processes. Insert cut section animation.",
+          "The RVCR is about the volume inside a toroidal casing which is parted by the Piston Vanes. The volume trapped between the piston vanes is the fluid area. As the piston-vane rotates inside the toroidal chamber the volume between the Piston-Vanes changes. The volume ahead of the piston-vane reduces and behind it increases.",
+          "The RVCR is about the volume inside a toroidal casing which is parted by the Piston Vanes. The volume trapped between the piston vanes is the fluid area. As the piston-vane rotates inside the toroidal chamber the volume between the Piston-Vanes changes. The volume ahead of the piston-vane reduces and behind it increases.",
+          "The rotating piston-vane compresses air ahead of it, against the stationary Piston-vane. The increasing volume behind it rarifies the air. The fluids spaces communicate with the outside air through conventional valves and ports. Valves are operated in relation to piston-vane position by cams mounted on sleeves and its associated drive chain. The choice of ports and valve are made to suit the application.",
+          "This sequential gas volume change across the rotating piston-vane during operation is used for the various thermodynamic processes. Insert cut section animation.",
+          "The rotating piston-vane compresses air ahead of it, against the stationary Piston-vane. The increasing volume behind it rarifies the air. The fluids spaces communicate with the outside air through conventional valves and ports. Valves are operated in relation to piston-vane position by cams mounted on sleeves and its associated drive chain. The choice of ports and valve are made to suit the application.",
+          "This sequential gas volume change across the rotating piston-vane during operation is used for the various thermodynamic processes. Insert cut section animation."
+        ],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Compression-And-Expansion-Process-1.m4v",
+          "/assets/videos/Compression-And-Expansion-Process-1.m4v"
+        ]
+      },
+      {
+        "heading": "Variable compression",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Seq-Asm-Cut-Section-Exh-Vv-Air-Thru-Put-Isometric-1.m4v",
+          "/assets/videos/Seq-Asm-Cut-Section-Exh-Vv-Air-Thru-Put-Isometric-1.m4v"
+        ]
+      },
+      {
+        "heading": "RVCR workings",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Seq-Asm-Cut-Section-Air-Flow-Thru-Put-Without-Shaft-1.m4v"
+        ]
+      },
+      {
+        "heading": "CUT SECTION RVCR ANIMATION",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Seq-Asm-No-Csg-0-Only-Exh-Vv-Driv-Chain-Without-Csg-Left-Iso-Lq-1-2.m4v"
+        ]
+      },
+      {
+        "heading": "RVCR MECHANISM AND VALVE OPERATION",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Gas-Process-Stroke-Rollers-Not-Moving-Iso-1.m4v"
+        ]
+      },
+      {
+        "heading": "GAS PROCESS WITH SLEEVE VANE STROKE",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Summary",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR Tech Links",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      }
+    ]
+  },
+  "rvcr-specifics": {
+    "id": 413,
+    "slug": "rvcr-specifics",
+    "title": "RVCR SPECIFICS",
+    "blocks": [
+      {
+        "heading": "RVCR Specifics",
+        "subheading": "",
+        "paragraphs": [
+          "A mechanism of Energy Conversion invloving two bent pistons (sets) ind a toroidalchamber with a sequential opertion the combines features of positive displacement and rotary mechanisms."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/2section_cut-copy-e1696326226349.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Overview",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Machine structure basics",
+        "subheading": "",
+        "paragraphs": [
+          "A mechanism of rotating pistons that combines positive displacement and rotary mechnaisms.",
+          "When the moving parts are forced, they actuate motion in their connected links. Like in case of flow energy in wind or in water from dams that turn the turbines or electromagnetic in case of motors \u2013 they eventually lead to rotation of power generators or wheels. For nearly 100 years now only 2 types of mechanisms are mostly used in Primemovers and utility machines. The \u2018Slider-Crank\u2019 used and rotary mechanism. RVCR mechanisms simplifies conversion of energy within fluids into mechanical work (and Vice Versa) whilst enhancing efficiency and miniaturization.",
+          "The genesis of RVCR is the invention by Er. Ajee Kamath, which details a new configuration of components of novel geometry, into an assembly of \u2018Moving elements\u2019 (ME) and \u2018Stationary Elements\u2019 (SE). Improving efficacy of converting fluid forces to torque, is key to RVCR mechanism.",
+          "RVCR is a superior alternative to the century old conventional \u2018Slider Crank\u2019 and \u2018Rotary mechanisms\u2019. It is a new addition in mechanisms that simplifies conversion of energy within fluids into mechanical work (and Vice Versa) that enhances efficiency and miniaturization."
+        ],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Conventional-Slider-Crank-1.m4v"
+        ]
+      },
+      {
+        "heading": "Understanding RVCR",
+        "subheading": "MANUFACTURED-BENT-PISTON",
+        "paragraphs": [
+          "### TOROIDAL CASING ONE HALF",
+          "### PISTON-VANE & SLEEVE ASSEMBLY",
+          "### Mechanism Comparison on a single shaft"
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/097-765x1024-copy.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/BOTTAM_LINER-copy.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/SLEEVE_PISTON-copy.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/Mechanism-Comparison-On-One-Shaft.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/Sleeve-and-vane-piston-1024x765-1.jpg",
+            "alt": "Sleeve-and-vane-piston-1024x765"
+          },
+          {
+            "src": "/assets/images/ASSEMBLY_1.jpg",
+            "alt": "ASSEMBLY_1"
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "RVCR Design",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR system uniqueness",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Power-Seq-Asm-Grey-1.m4v"
+        ]
+      },
+      {
+        "heading": "RVCR animations",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR enables sequential cyclic rotary motion of piston vanes"
+        ],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Seq-Asm-1-Translation-On-Shaft-0-1-1.m4v"
+        ]
+      },
+      {
+        "heading": "SLEEVE VANE PAIR MOUNTING ON SHAFT",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/Seq-Asm-3-Slv-Vane-Pair-On-Shaft-Isometric-1-2.m4v"
+        ]
+      },
+      {
+        "heading": "RVCR SLEEVE VANE ANIMATION",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR attributes",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [
+          "Attains Compression/ Expansion thermodynamic) gas processes.",
+          "Achieves controlled variation of angular displacement of rotors.",
+          "Attains analogous Variation in Compression/Expansion Ratios.",
+          "1st to attain \u2018Constant Volume gas process\u2019 between strokes.",
+          "Deploys \u2018Opposed Piston\u2019 Principle within One Enclosed Chamber",
+          "Deploys Double acting Piston\u2019 with equal cross sectional areas.",
+          "Packages two independent chains of Rotors in one chamber"
+        ],
+        "images": [],
+        "videos": [
+          "/assets/videos/1St-Motoring-1.m4v"
+        ]
+      },
+      {
+        "heading": "Summary",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR Tech Links",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      }
+    ]
+  },
+  "what-is-rvcr": {
+    "id": 315,
+    "slug": "what-is-rvcr",
+    "title": "What is RVCR",
+    "blocks": [
+      {
+        "heading": "What is RVCR ?",
+        "subheading": "",
+        "paragraphs": [
+          "An invention in \u2018Mechanisms of Energy Conversion\u2019based on a new concept in \u2018Kinematics\u2019 (skeleton base) of machines"
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/temp1-copy-e1696321228356.png",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Overview",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Introduction",
+        "subheading": "",
+        "paragraphs": [
+          "The most important of machines of the 20th century are primemovers like engines and turbines. And then there are utility machines, motors, pumps, compressors etc. These machines are used in Industrial and domestic purposes. The current generation of these machines use either the slider crank or the rotary mechanism.",
+          "Engines that powers cars, trains and ships are mostly based on the slider crank mechanism while wind turbines, and jet engines used in aviation are based on rotary mechanism. Even the electric motor used in battery driven cars are based on rotary mechanism.",
+          "The application of RVCR is numerous ranging from Primemovers to all kinds of fluid handling machines. This includes not just Primemovers and utility, but in dosing devices in Agro, food and pharma industries. We are currently focused on two applications namely RVCR Green I.C.Engines and RVCR wind motors."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/robotic-vs-human-hand-system-depiction-copy-e1696321450367.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/robotic-vs-human-hand-system-depiction-copy-e1696321450367.jpg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "History",
+        "subheading": "",
+        "paragraphs": [
+          "A prelude to the evolution process that led to modern Machines"
+        ],
+        "list": [],
+        "images": [],
+        "videos": [
+          "/assets/videos/A-Machine-Skeletal-Systems-1-2.m4v"
+        ]
+      },
+      {
+        "heading": "The background",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "How and when",
+        "subheading": "",
+        "paragraphs": [
+          "They say necessity is the mother of all inventions, but RVCR wasn\u2019t so. It is an invention by thought experimenting with possibilities. Hence it is by the power of his imagination and perspective by Inventor engineer Mr. Ajee Kamath. The question that occurred to him was, \u2018Why does the piston need to oscillate\u2019, why not use two vanes to produce the required compression and expansion of gases, required in Engines and compressors etc.?",
+          "He visualized the mechanism and further through time devised solutions to various feasibility issues encountered while exploring the possibilities with his novel idea. He could never find any reason why such a mechanism would not work.",
+          "The invention is verified for \u2018novelty\u2019, \u2018inventive step\u2019 and \u2018industrial\u2019 but almost 49 nations which granted patents for the invention of RVCR."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/Thought-experimenting-copy-e1696321537498.jpg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Summary",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR Tech Links",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      }
+    ]
+  },
+  "home": {
+    "id": 105,
+    "slug": "home",
+    "title": "Home",
+    "blocks": [
+      {
+        "heading": "",
+        "subheading": "",
+        "paragraphs": [
+          "Enter The"
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR realm",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "What is RVCR",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "A breakthrough in machine heart tech",
+        "subheading": "To pump blood through our body for powering it",
+        "paragraphs": [
+          "For 150 years machines catered to our transport and power needs, but little do many know of Primemovers \u2013 the heart of machines.",
+          "Like our heart has various muscles and valves, primemovers have links. RVCR is a new science of primemovers",
+          "Primemovers like engines, turbines and motors powered us into mechanized age. Today they are the polluters. We have developed RVCR technology- that delivers tomorrow\u2019s \u00a0green primemovers."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/heart.png",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/heart_engine.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/ASSEMBLY_1.jpg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "RVCR specifics",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "A new configuration of rotary piston mechanics.",
+        "subheading": "",
+        "paragraphs": [
+          "Almost all machines today are based on either the \u2018Slider-Crank\u2019 or the \u2018Rotary\u2019 mechanism (known as kinematic mechanisms).",
+          "The genesis of RVCR is novel component geometries and its configuration that simplifies conversion of energy within fluids like fuel or wind etc., into power. Fluids actuate motion of links which eventually rotate wheels or power generators. Key to RVCR is enhancing of efficacy of this energy conversion."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "How RVCR works",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Perceive - Rotating curved piston with cam actuated shuttle valve",
+        "subheading": "",
+        "paragraphs": [
+          "Simply speaking \u00a0there are two rotors on a single shaft wherein One rotor decouples and becomes a stator, while the other turns. They switch roles alternately as rotor and stator. Like in a steam engine the piston actuates a shuttle valve before it reaches the end position to allow reversing stem flow, RVCR rotary piston actuate adjacent rotor as it nears the end of its turning span. This is crux of RVCR RVCR\u2019s new mechanism is that it eliminates the need of dedicated stationary link, by dynamic reorienting of a twin Rotor system, enabling a new physics of energy conversion."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR application",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Primemovers and FHM",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR kinematics applies to all Fluid Handling machines RVCR kinematics is a replacement for both positive displacement (Reciprocatory & rotary) and rotary centrifugal kinematic system. The Variable displacement characteristic adds to the versatility of the mechanism. The component elements and their parameters can be customized for both high pressure and high-volume applications. The tangential piston force dynamics can be adapted to cover both +ve displacement and the rotary centrifugal applications. The RVCR product projects are covered separately."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR feasibility",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Solving rotary system faults",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR overcomes issues with sealing and inertia common in rotary kinematic systems. Unlike previous Wankel system RVCR has no (straight-line edge or large-flat-side surfaces) sealing issues, RVCR employs a combination of tangential spring force and labyrinth sealing methodology for across rotary piston vane sealing and side-sealing respectively.",
+          "RVCR allows large rapid expansion at low speeds hence solving inertia issues are ,. The alternate Stopping and Starting \u00a0of RVCR rotors is made easy by slower speeds and by cushioning of rotors by gas forces."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "RVCR viability",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Viable green transition",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR most advanced competitive Zero-Carbon Technologies",
+          "RVCR is about enhancing efficacy of force and energy transfer. Furthermore, easy, and dynamic control over change of volume and the rate of change of volume allows newer ways in improving thermodynamic gas processes. Comparing capital cost components of total material, manufacture cost, and system\u2019s needs, RVCR stands economical than all conventional Primemovers.",
+          "RVCR operational costs reduces from lesser strenuous operations demand, coupled with leap in efficiency and never before capabilities form VCR attributes. \u00a0Slower speeds\u00a0 reduces frictional losses improving energy efficiency."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/RVCR_hydro_motor.jpg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/assmbly-pxg1z1nt0ubhjzy08auj71ysaa831op1qxub6gq64o.jpg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "RVCR value",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Cost effective climateregulation compliance",
+        "subheading": "",
+        "paragraphs": [
+          "RVCR technology products derive value for its inherent attributes.",
+          "RVCR is a simplified system to combine features like double acting and opposed piston, making it a highly efficient, compact, and has low carbon footprint. It combines the system efficiency of \u2018Positive Displacement Mechanism\u2019, fine \u2018VCR\u2019 control, and gains from \u2018Direct Torque Transfer\u2019 characteristics of Rotary mechanism, into one highly advanced primemover tech.",
+          "It opens long-standing theoretical ceiling limits in machine energy conversion efficiencies and performance capabilities."
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/green_industy.jpg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Broader impact",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Redefining - climate recovery response",
+        "subheading": "",
+        "paragraphs": [
+          "Enabling an comprehensive alternate industrial strategy for Climate Change Mitigation to fix global warming.",
+          "RVCR ensures Unhooking from fossil fuel dependency. It enables a smooth transition to green fuel in the heavy transport sector. In doing so RVCR carves newer markets of green fuels. The onset of RVCR leads to lowering of Levelized cost of power from renewable energy.",
+          "RVCR seeds an entire breed on next gen green machines and stands as a unified solution to shape the 21st century green industry ecosystem."
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Our R&D",
+        "subheading": "",
+        "paragraphs": [],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "R&D on newer \u201cZero Carbon\u201d technologies",
+        "subheading": "",
+        "paragraphs": [
+          "We conduct research, and development of to create newer seed technologies based on the breakthrough RVCR concept. We then design new breed of primemovers, and systems based on the developed technology capable of outperforming future climate regulations of transport and energy industry.We generate global IP of products based on the developed RVCR technologies"
+        ],
+        "list": [],
+        "images": [
+          {
+            "src": "/assets/images/whatwedo-1-1.jpeg",
+            "alt": ""
+          }
+        ],
+        "videos": []
+      },
+      {
+        "heading": "Discover more of RVCR",
+        "subheading": "",
+        "paragraphs": [
+          "Witness the seeding of newer unconventional climate tech"
+        ],
+        "list": [],
+        "images": [],
+        "videos": []
+      },
+      {
+        "heading": "Info",
+        "subheading": "",
+        "paragraphs": [
+          "We operate from our base in UK and India. For more information, please drop us a mail or use the form.",
+          "Your name",
+          "Your email",
+          "Subject",
+          "Your message (optional)",
+          "\u0394"
+        ],
+        "list": [
+          "+91 7403008844",
+          "info@gyatk.com",
+          "GYATK RVCR Apparatus Pvt Ltd, India, CIN : U73100KL2005PTC017897"
+        ],
+        "images": [],
+        "videos": []
+      }
+    ]
+  }
+}
