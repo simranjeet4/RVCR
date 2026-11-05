@@ -25,7 +25,7 @@ export const Hero: React.FC = () => {
       <Container className="relative z-10 w-full">
         <div className="max-w-2xl lg:max-w-3xl text-left py-16 md:py-28">
           <span className="text-xs sm:text-sm font-semibold tracking-wider text-[#CC00AA] block mb-2 font-roboto">
-            credo:&nbsp; Reinventing Kinetics
+            Reinventing Kinetics
           </span>
           <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold text-white tracking-tight mb-4 leading-tight">
             A New Kinematic Architecture for Energy Conversion

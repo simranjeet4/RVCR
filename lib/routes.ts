@@ -40,7 +40,7 @@ export const ROUTE_MAP: Record<string, RouteDefinition> = {
     legacyUrl: 'https://rvcr.tech/',
     title: 'RVCR | Rotary Variable Compression Ratio',
     shortTitle: 'Home',
-    eyebrow: 'credo:  Reinventing Kinetics',
+    eyebrow: 'Reinventing Kinetics',
     purpose: 'Core brand positioning, kinematics introduction, executive overview, and ecosystem portal.',
     pageType: 'Landing',
     renderingStrategy: 'Static Site Generation',
