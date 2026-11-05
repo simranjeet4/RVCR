@@ -49,7 +49,7 @@ export const RelatedPages: React.FC<RelatedPagesProps> = ({
           >
             <div>
               {page.eyebrow && (
-                <span className="block text-[10px] font-roboto uppercase tracking-wider text-[#96337b] font-semibold mb-0.5">
+                <span className="block text-[10px] font-roboto uppercase tracking-wider text-[#cf3367] font-semibold mb-0.5">
                   {page.eyebrow}
                 </span>
               )}

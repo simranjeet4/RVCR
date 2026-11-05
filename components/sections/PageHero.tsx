@@ -69,7 +69,7 @@ export const PageHero: React.FC<PageHeroProps> = ({
 
         {/* Category Eyebrow & Primary H1 */}
         <div className="max-w-3xl">
-          <span className="inline-block px-3.5 py-1 rounded-full text-xs font-roboto font-semibold uppercase tracking-widest text-[#96337b] bg-[#96337b]/20 border border-[#96337b]/40 mb-4 backdrop-blur-sm">
+          <span className="inline-block px-3.5 py-1 rounded-full text-xs font-roboto font-semibold uppercase tracking-widest text-[#cf3367] bg-[#cf3367]/20 border border-[#cf3367]/40 mb-4 backdrop-blur-sm">
             {category}
           </span>
           <h1 className="text-3xl sm:text-5xl font-bold text-white tracking-tight leading-tight">

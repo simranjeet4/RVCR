@@ -14,7 +14,7 @@ export const ViabilitySection: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
             
             <div className="lg:col-span-7 space-y-4">
-              <span className="text-xs font-semibold tracking-wider text-[#CC00AA] font-roboto block uppercase">
+              <span className="text-xs font-semibold tracking-wider text-[#cf3367] font-roboto block uppercase">
                 RVCR viability
               </span>
               <h3 className="text-2xl sm:text-3xl md:text-4xl font-bold text-black leading-tight">
@@ -71,7 +71,7 @@ export const ViabilitySection: React.FC = () => {
             </div>
 
             <div className="lg:col-span-7 space-y-4 order-1 lg:order-2">
-              <span className="text-xs font-semibold tracking-wider text-[#CC00AA] font-roboto block uppercase">
+              <span className="text-xs font-semibold tracking-wider text-[#cf3367] font-roboto block uppercase">
                 RVCR value
               </span>
               <h3 className="text-2xl sm:text-3xl md:text-4xl font-bold text-black leading-tight">

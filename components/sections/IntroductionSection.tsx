@@ -12,7 +12,7 @@ export const IntroductionSection: React.FC = () => {
           
           {/* Left Column: 6 Columns Width */}
           <div className="lg:col-span-6 space-y-6">
-            <span className="text-xs font-semibold tracking-wider text-[#CC00AA] font-roboto block uppercase">
+            <span className="text-xs font-semibold tracking-wider text-[#cf3367] font-roboto block uppercase">
               What is RVCR
             </span>
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-black tracking-tight leading-tight">

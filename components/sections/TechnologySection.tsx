@@ -27,7 +27,7 @@ export const TechnologySection: React.FC = () => {
 
             {/* Right Column: Specifics Copy */}
             <div className="lg:col-span-7 space-y-5 order-1 lg:order-2">
-              <span className="text-xs font-semibold tracking-wider text-[#CC00AA] font-roboto block uppercase">
+              <span className="text-xs font-semibold tracking-wider text-[#cf3367] font-roboto block uppercase">
                 RVCR specifics
               </span>
               <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white tracking-tight leading-tight">
@@ -66,7 +66,7 @@ export const TechnologySection: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
             
             <div className="lg:col-span-7 xl:col-span-6 space-y-5 relative z-10">
-              <span className="text-xs font-semibold tracking-wider text-[#CC00AA] font-roboto block uppercase">
+              <span className="text-xs font-semibold tracking-wider text-[#cf3367] font-roboto block uppercase">
                 How RVCR works
               </span>
               <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-black tracking-tight leading-tight">

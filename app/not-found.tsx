@@ -14,7 +14,7 @@ export default function NotFound() {
   return (
     <div className="min-h-[70vh] flex items-center justify-center bg-white px-4">
       <div className="max-w-md text-center space-y-6">
-        <span className="text-xs font-semibold uppercase tracking-widest text-[#96337b] block font-roboto">
+        <span className="text-xs font-semibold uppercase tracking-widest text-[#cf3367] block font-roboto">
           404 Error
         </span>
         <h1 className="text-4xl sm:text-5xl font-bold text-[#003461] tracking-tight">

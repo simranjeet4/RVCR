@@ -64,6 +64,12 @@
 
 /* Tag Eyebrow in GYATK Style & Roboto Everywhere */
 .eyebrow-gyatk,
+.eyebrow-label {
+  color: #cf3367 !important;
+  text-transform: uppercase !important;
+  font-family: 'Roboto', sans-serif !important;
+}
+
 .font-roboto,
 [class*="tracking-widest"][class*="uppercase"],
 [class*="tracking-wider"][class*="uppercase"] {

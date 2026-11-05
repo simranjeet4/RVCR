@@ -14,7 +14,7 @@ export const ApplicationSection: React.FC = () => {
             
             {/* Left Column: Title & Action */}
             <div className="lg:col-span-5 space-y-4">
-              <span className="text-xs font-semibold tracking-wider text-[#CC00AA] font-roboto block uppercase">
+              <span className="text-xs font-semibold tracking-wider text-[#cf3367] font-roboto block uppercase">
                 RVCR application
               </span>
               <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-black tracking-tight">
@@ -62,7 +62,7 @@ export const ApplicationSection: React.FC = () => {
 
         <Container className="relative z-10 space-y-6">
           <div className="max-w-4xl mx-auto space-y-5">
-            <span className="text-xs font-semibold tracking-wider text-[#CC00AA] font-roboto block uppercase">
+            <span className="text-xs font-semibold tracking-wider text-[#cf3367] font-roboto block uppercase">
               RVCR feasibility
             </span>
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-white tracking-tight">

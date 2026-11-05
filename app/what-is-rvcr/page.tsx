@@ -213,7 +213,7 @@ export default function WhatIsRvcrPage() {
 
             {/* Right Column: Background Copy */}
             <div className="lg:col-span-6 space-y-4">
-              <span className="text-xs font-semibold tracking-wider text-[#CC00AA] font-roboto block uppercase">
+              <span className="text-xs font-semibold tracking-wider text-[#cf3367] font-roboto block uppercase">
                 Machine mechanism overview
               </span>
               <h2 className="text-3xl sm:text-4xl font-bold text-black tracking-tight">
@@ -243,7 +243,7 @@ export default function WhatIsRvcrPage() {
             
             {/* Left Column: Inventors Spark Copy */}
             <div className="lg:col-span-6 space-y-4 order-2 lg:order-1">
-              <span className="text-xs font-semibold tracking-wider text-[#CC00AA] font-roboto block uppercase">
+              <span className="text-xs font-semibold tracking-wider text-[#cf3367] font-roboto block uppercase">
                 Inventors spark
               </span>
               <h2 className="text-3xl sm:text-4xl font-bold text-black tracking-tight">

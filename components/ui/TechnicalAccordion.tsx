@@ -50,7 +50,7 @@ export const TechnicalAccordion: React.FC<TechnicalAccordionProps> = ({
             >
               <div>
                 {item.eyebrow && (
-                  <span className="block text-[10px] font-roboto uppercase tracking-wider text-[#96337b] font-bold mb-0.5">
+                  <span className="block text-[10px] font-roboto uppercase tracking-wider text-[#cf3367] font-bold mb-0.5">
                     {item.eyebrow}
                   </span>
                 )}
