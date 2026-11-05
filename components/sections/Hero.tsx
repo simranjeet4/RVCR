@@ -24,11 +24,11 @@ export const Hero: React.FC = () => {
 
       <Container className="relative z-10 w-full">
         <div className="max-w-xl text-left py-16 md:py-28">
-          <span className="text-xs sm:text-sm font-semibold tracking-wider text-[#CC00AA] block mb-2 font-roboto uppercase">
-            Deep Tech
+          <span className="text-xs sm:text-sm font-semibold tracking-wider text-[#CC00AA] block mb-2 font-roboto">
+            credo:&nbsp; Reinventing Kinetics
           </span>
           <h1 className="text-4xl sm:text-6xl md:text-7xl font-bold text-white tracking-tight mb-3 leading-tight">
-            RVCR Realm
+            RVCR
           </h1>
           <p className="text-base sm:text-xl text-white mb-8 font-normal leading-relaxed">
             The future physics of primemovers
