@@ -23,15 +23,15 @@ export const Hero: React.FC = () => {
       <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-transparent to-black/30 pointer-events-none" />
 
       <Container className="relative z-10 w-full">
-        <div className="max-w-xl text-left py-16 md:py-28">
+        <div className="max-w-2xl lg:max-w-3xl text-left py-16 md:py-28">
           <span className="text-xs sm:text-sm font-semibold tracking-wider text-[#CC00AA] block mb-2 font-roboto">
             credo:&nbsp; Reinventing Kinetics
           </span>
-          <h1 className="text-4xl sm:text-6xl md:text-7xl font-bold text-white tracking-tight mb-3 leading-tight">
-            RVCR
+          <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold text-white tracking-tight mb-4 leading-tight">
+            A New Kinematic Architecture for Energy Conversion
           </h1>
-          <p className="text-base sm:text-xl text-white mb-8 font-normal leading-relaxed">
-            The future physics of primemovers
+          <p className="text-base sm:text-lg text-white/90 mb-8 font-normal leading-relaxed max-w-2xl">
+            RVCR.tech showcases the invention of the patented RVCR kinematics mechanism, being commercialize under the GYAT umbrella, with KGYAT leading engineering implementation.
           </p>
           <div>
             <Link
