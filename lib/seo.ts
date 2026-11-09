@@ -3,7 +3,7 @@ import { SiteConfig } from '@/types';
 export const SITE_CONFIG: SiteConfig = {
   name: 'RVCR | Rotary Variable Compression Ratio',
   shortName: 'RVCR',
-  tagline: 'IP Owner & Commercialisation Lead for RVCR.',
+  tagline: 'Knowledge Platform for RVCR',
   description:
     'A breakthrough in machine heart tech. The future physics of energy conversion, variable compression ratio rotary mechanics and zero-carbon primemovers.',
   url: 'https://rvcr.tech',

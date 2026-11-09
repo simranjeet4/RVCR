@@ -144,7 +144,7 @@ export const Header: React.FC = () => {
             className="text-[#CF3367] font-medium tracking-tight truncate max-w-[280px] sm:max-w-none text-[16px]"
             style={{ fontSize: '16px' }}
           >
-            IP Owner &amp; Commercialisation Lead for RVCR.
+            Knowledge Platform for RVCR
           </span>
         </div>
 
