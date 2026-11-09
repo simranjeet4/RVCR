@@ -17,14 +17,15 @@ export const Header: React.FC = () => {
         <Container className="py-2.5 sm:py-3 flex items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center" aria-label="GYATK Beyond Innovation RVCR Logo">
-            <div className="relative w-[150px] sm:w-[185px] h-[38px] sm:h-[44px]">
+            <div className="relative w-[170px] sm:w-[205px] h-[44px] sm:h-[52px]">
               <Image
                 src="/assets/images/gyatk-logo.png"
                 alt="GYATK Beyond Innovation Logo"
                 fill
                 priority
-                sizes="(max-width: 640px) 150px, 185px"
+                sizes="(max-width: 640px) 170px, 205px"
                 className="object-contain object-left"
+                style={{ maxWidth: '205px' }}
               />
             </div>
           </Link>
