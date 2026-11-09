@@ -99,7 +99,7 @@ export const Header: React.FC = () => {
             >
               <HomeIcon className="w-4 h-4 text-[#003461]" aria-hidden="true" />
             </Link>
-            <span className="text-[#cf3367] font-medium tracking-tight truncate max-w-[240px] sm:max-w-none text-xs sm:text-[13px]">
+            <span className="text-[#cf3367] font-medium tracking-tight truncate max-w-[260px] sm:max-w-none text-sm sm:text-[16px]" style={{ fontSize: '16px' }}>
               IP Owner &amp; Commercialisation Lead for RVCR.
             </span>
           </div>
