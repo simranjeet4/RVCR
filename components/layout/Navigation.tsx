@@ -13,6 +13,8 @@ export const Navigation: React.FC = () => {
 
   const homeMenuRef = useRef<HTMLDivElement>(null);
   const stayMenuRef = useRef<HTMLDivElement>(null);
+  const homeTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+  const stayTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   // Close dropdowns on outside click or Escape key
   useEffect(() => {
@@ -37,8 +39,32 @@ export const Navigation: React.FC = () => {
     return () => {
       document.removeEventListener('mousedown', handleClickOutside);
       document.removeEventListener('keydown', handleKeyDown);
+      if (homeTimeoutRef.current) clearTimeout(homeTimeoutRef.current);
+      if (stayTimeoutRef.current) clearTimeout(stayTimeoutRef.current);
     };
   }, []);
+
+  const handleHomeMouseEnter = () => {
+    if (homeTimeoutRef.current) clearTimeout(homeTimeoutRef.current);
+    setHomeDropdownOpen(true);
+  };
+
+  const handleHomeMouseLeave = () => {
+    homeTimeoutRef.current = setTimeout(() => {
+      setHomeDropdownOpen(false);
+    }, 200);
+  };
+
+  const handleStayMouseEnter = () => {
+    if (stayTimeoutRef.current) clearTimeout(stayTimeoutRef.current);
+    setStayDropdownOpen(true);
+  };
+
+  const handleStayMouseLeave = () => {
+    stayTimeoutRef.current = setTimeout(() => {
+      setStayDropdownOpen(false);
+    }, 200);
+  };
 
   const HOME_DROPDOWN_ITEMS = [
     { label: 'Kgyat Engine', href: 'https://kgyat.com/engine-subdirectory', isExternal: true },
@@ -67,8 +93,8 @@ export const Navigation: React.FC = () => {
       <div
         ref={homeMenuRef}
         className="relative"
-        onMouseEnter={() => setHomeDropdownOpen(true)}
-        onMouseLeave={() => setHomeDropdownOpen(false)}
+        onMouseEnter={handleHomeMouseEnter}
+        onMouseLeave={handleHomeMouseLeave}
       >
         <button
           type="button"
@@ -89,24 +115,26 @@ export const Navigation: React.FC = () => {
         </button>
 
         {homeDropdownOpen && (
-          <div
-            role="menu"
-            aria-label="Ecosystem Websites"
-            className="absolute left-0 mt-1 w-52 bg-white border border-gray-100 rounded-xl shadow-2xl py-2 z-50 animate-in fade-in duration-150"
-          >
-            {HOME_DROPDOWN_ITEMS.map((item) => (
-              <a
-                key={item.label}
-                href={item.href}
-                target="_blank"
-                rel="noopener noreferrer"
-                role="menuitem"
-                className="flex items-center justify-between px-4 py-2.5 text-sm font-medium text-gray-800 hover:text-[#CF3367] hover:bg-gray-50 transition-colors"
-              >
-                <span>{item.label}</span>
-                <ExternalLink className="w-4 h-4 text-[#7B92A8]" aria-hidden="true" />
-              </a>
-            ))}
+          <div className="absolute left-0 top-full pt-1.5 z-50">
+            <div
+              role="menu"
+              aria-label="Ecosystem Websites"
+              className="w-52 bg-white border border-gray-100 rounded-xl shadow-2xl py-2 animate-in fade-in duration-150"
+            >
+              {HOME_DROPDOWN_ITEMS.map((item) => (
+                <a
+                  key={item.label}
+                  href={item.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  role="menuitem"
+                  className="flex items-center justify-between px-4 py-2.5 text-sm font-medium text-gray-800 hover:text-[#CF3367] hover:bg-gray-50 transition-colors"
+                >
+                  <span>{item.label}</span>
+                  <ExternalLink className="w-4 h-4 text-[#7B92A8]" aria-hidden="true" />
+                </a>
+              ))}
+            </div>
           </div>
         )}
       </div>
@@ -125,8 +153,8 @@ export const Navigation: React.FC = () => {
       <div
         ref={stayMenuRef}
         className="relative"
-        onMouseEnter={() => setStayDropdownOpen(true)}
-        onMouseLeave={() => setStayDropdownOpen(false)}
+        onMouseEnter={handleStayMouseEnter}
+        onMouseLeave={handleStayMouseLeave}
       >
         <button
           type="button"
@@ -145,22 +173,24 @@ export const Navigation: React.FC = () => {
         </button>
 
         {stayDropdownOpen && (
-          <div
-            role="menu"
-            aria-label="Homepage Sections"
-            className="absolute right-0 mt-1 w-56 bg-white border border-gray-100 rounded-xl shadow-2xl py-2 z-50"
-          >
-            {STAY_ON_PAGE_ITEMS.map((item) => (
-              <Link
-                key={item.label}
-                href={item.href}
-                onClick={() => setStayDropdownOpen(false)}
-                role="menuitem"
-                className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-gray-50 hover:text-[#CF3367] transition-colors"
-              >
-                {item.label}
-              </Link>
-            ))}
+          <div className="absolute right-0 top-full pt-1.5 z-50">
+            <div
+              role="menu"
+              aria-label="Homepage Sections"
+              className="w-56 bg-white border border-gray-100 rounded-xl shadow-2xl py-2"
+            >
+              {STAY_ON_PAGE_ITEMS.map((item) => (
+                <Link
+                  key={item.label}
+                  href={item.href}
+                  onClick={() => setStayDropdownOpen(false)}
+                  role="menuitem"
+                  className="block px-4 py-2 text-xs font-medium text-gray-700 hover:bg-gray-50 hover:text-[#CF3367] transition-colors"
+                >
+                  {item.label}
+                </Link>
+              ))}
+            </div>
           </div>
         )}
       </div>
