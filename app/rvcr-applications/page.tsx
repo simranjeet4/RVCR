@@ -88,9 +88,9 @@ export default function RvcrApplicationsPage() {
         <Container>
           <div className="max-w-4xl mx-auto space-y-8">
             <div className="text-left">
-              <h2 className="text-xs font-semibold tracking-wider text-black font-roboto uppercase block mb-1">
+              <span className="text-xs font-semibold tracking-wider text-[#cf3367] font-roboto uppercase block mb-1">
                 I.C.Engine Primemover Application
-              </h2>
+              </span>
             </div>
 
             {/* Centered Transparent Rotor Combustion Video */}
