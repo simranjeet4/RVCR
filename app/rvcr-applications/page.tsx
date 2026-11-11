@@ -88,7 +88,7 @@ export default function RvcrApplicationsPage() {
         <Container>
           <div className="max-w-4xl mx-auto space-y-8">
             <div className="text-left">
-              <span className="text-xs font-semibold tracking-wider text-[#cf3367] font-roboto uppercase block mb-1">
+              <span className="text-xs font-semibold tracking-wider text-[#cf3367] font-roboto uppercase block mb-[5px]">
                 I.C.Engine Primemover Application
               </span>
             </div>

@@ -37,10 +37,10 @@ export const Hero: React.FC = () => {
 
       <Container className="relative z-10 w-full">
         <div className="max-w-2xl lg:max-w-3xl text-left pt-[30px] pb-10 md:pt-0 md:py-28">
-          <span className="text-xs sm:text-sm font-semibold tracking-wider text-[#cf3367] block mb-2 font-roboto uppercase">
+          <span className="text-xs sm:text-sm font-semibold tracking-wider text-[#cf3367] block mb-[5px] font-roboto uppercase">
             Reinventing Kinetics
           </span>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight mb-3 md:mb-4 leading-tight">
+          <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white tracking-tight mb-3 md:mb-4 leading-tight !mt-0">
             A New Kinematic Architecture for Energy Conversion
           </h1>
           <p className="text-xs sm:text-base md:text-lg text-white/90 mb-6 md:mb-8 font-normal leading-relaxed max-w-2xl">

@@ -25,11 +25,11 @@ export const ContentBlock: React.FC<ContentBlockProps> = ({
       <div className="relative z-10">
         <header className="mb-6 border-b border-[#e8e7ef] pb-4">
           {eyebrow && (
-            <span className="text-xs font-roboto uppercase tracking-widest text-[#cf3367] font-semibold block mb-1">
+            <span className="text-xs font-roboto uppercase tracking-widest text-[#cf3367] font-semibold block mb-[5px]">
               {eyebrow}
             </span>
           )}
-          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-[#003461] tracking-tight">
+          <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-[#003461] tracking-tight !mt-0">
             {title}
           </h2>
           {subtitle && (

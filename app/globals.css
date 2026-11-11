@@ -88,6 +88,25 @@
   font-family: 'Roboto', sans-serif !important;
 }
 
+/* Ensure exact 5px gap between eyebrow label and heading */
+.eyebrow-gyatk,
+.eyebrow-label,
+span.font-roboto[class*="uppercase"],
+span[class*="tracking-"][class*="uppercase"],
+span[class*="uppercase"][class*="tracking-"],
+[class*="eyebrow"] {
+  margin-bottom: 5px !important;
+}
+
+.eyebrow-gyatk + :is(h1, h2, h3, h4, h5, h6),
+.eyebrow-label + :is(h1, h2, h3, h4, h5, h6),
+span.font-roboto[class*="uppercase"] + :is(h1, h2, h3, h4, h5, h6),
+span[class*="tracking-"][class*="uppercase"] + :is(h1, h2, h3, h4, h5, h6),
+span[class*="uppercase"][class*="tracking-"] + :is(h1, h2, h3, h4, h5, h6),
+[class*="eyebrow"] + :is(h1, h2, h3, h4, h5, h6) {
+  margin-top: 0px !important;
+}
+
 /* Custom scrollbar */
 ::-webkit-scrollbar {
   width: 8px;
