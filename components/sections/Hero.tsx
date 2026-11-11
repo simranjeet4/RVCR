@@ -5,7 +5,7 @@ import { Container } from '../ui/Container';
 
 export const Hero: React.FC = () => {
   return (
-    <section className="relative min-h-[92vh] sm:min-h-[85vh] lg:min-h-[92vh] flex items-start md:items-center bg-black overflow-hidden pt-[125px] pb-16 md:pt-24 md:pb-36">
+    <section className="relative min-h-[92vh] sm:min-h-[85vh] md:min-h-screen flex items-start md:items-center bg-black overflow-hidden pt-[125px] pb-16 md:pt-[145px] md:pb-0">
       {/* Desktop Background Image (hidden on mobile) */}
       <div className="hidden md:block absolute inset-0 pointer-events-none">
         <Image
@@ -36,7 +36,7 @@ export const Hero: React.FC = () => {
       <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-transparent to-black/40 pointer-events-none" />
 
       <Container className="relative z-10 w-full">
-        <div className="w-full md:w-1/2 md:max-w-[50%] text-left pt-[30px] pb-10 md:pt-0 md:py-28">
+        <div className="w-full md:w-1/2 md:max-w-[50%] text-left pt-[30px] pb-10 md:py-0 flex flex-col justify-center">
           <span className="text-xs sm:text-sm font-semibold tracking-wider text-[#cf3367] block mb-[5px] font-roboto uppercase">
             Reinventing Kinetics
           </span>
