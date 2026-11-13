@@ -44,7 +44,7 @@ export const Hero: React.FC = () => {
             A New Kinematic Architecture for Energy Conversion
           </h1>
           <p className="text-xs sm:text-base md:text-lg text-white/90 mb-6 md:mb-8 font-normal leading-relaxed">
-            RVCR.tech showcases the invention of the patented RVCR kinematics mechanism, being commercialize under the GYAT umbrella, with KGYAT leading engineering implementation.
+            RVCR.tech showcases the invention of the patented RVCR kinematics mechanism, being commercialized under the GYATK umbrella, with KGYAT leading engineering implementation.
           </p>
           <div>
             <Link
